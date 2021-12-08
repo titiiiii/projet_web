@@ -1,0 +1,47 @@
+.graph{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.FeatureItem5{
+    flex: 50%;
+    margin: 0px 10px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 11px -1px #161616;
+    background-image: linear-gradient(to bottom, rgb(45, 45, 56), rgb(45, 45, 56));
+}
+
+.FeatureItem6{
+    flex: 50%;
+    margin: 0px 10px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 11px -1px #161616;
+    background-image: linear-gradient(to bottom, rgb(45, 45, 56), rgb(45, 45, 56));
+}
+
+.FeatureItem7{
+    flex: 50%;
+    margin: 0px 10px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 11px -1px #161616;
+    background-image: linear-gradient(to bottom, rgb(45, 45, 56), rgb(45, 45, 56));
+}
+
+.titre{
+    color: white;
+    font-family: Arial Black;
+    font-size: 0.9em;
+}
+
+.lyric{
+    padding-top: 20px;
+    color: white;
+    font-family: Arial Black;
+    font-size: 0.8em;
+}

@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  background-color: rgb(40, 41, 43);
+}
+
+.main{
+  display: flex;
+  flex: 7;
+  padding: 50px;
+}
+
+.graph{
+  float: left ;
+}
